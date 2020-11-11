@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Juanson");
         System.out.println("I scheiß da indn Trockner");
         System.out.println("Aluakhbar");
+        System.out.println("ITP ist super!");
     }
 
 }
